@@ -1,0 +1,17 @@
+1) cd 
+2) ~ - root dir, . - current dir, .. - parent dir
+3) rm - remove 
+4) cd - change directory
+5) cp - copy file (-r - recursively for dirs)
+6) mv - move or rename
+7) mv OLD_NAME NEW_NAME
+8) mv SOURCE TARGET (-r for dirs)
+9) -R - dereference-recursive
+10)-r - recursive
+11) система контроля версий
+12) Инициализация локального репозитория
+13) git branch NAME / git checkout -b NAME (создать и перейти)
+14) git checkout NAME_OF_BRANCH
+15) git merge слияние целевого локального реопзитория с текущим
+16) git rm - remove from repo
+17) git revert - создание нового коммита, чтобы отменить изменения, сделанные в пред. коммите
